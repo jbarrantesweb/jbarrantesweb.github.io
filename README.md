@@ -1,4 +1,6 @@
 # jbarrantesweb.github.io
 Test
-Modificado por Carlos RB
+
 Modificado por Patricia 
+Modificado por Carlos RB
+Nuevo texto Miguel 
